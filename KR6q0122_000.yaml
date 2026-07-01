@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0122/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 警世
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1230.xml
+    old_id: X63n1230
+hash: sha256:262bc15dbebe17eea1dbc5f559f607deead86f5b9045a2c2e582730ada60c052

@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6q0122/v1
+canonical_location: https://kanripo.org/bkk/KR6q0122/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 警世
+  identifiers:
+    alt_id:
+    - X63n1230
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1230.xml
+    old_id: X63n1230
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0122_000.yaml, hash: 'sha256:262bc15dbebe17eea1dbc5f559f607deead86f5b9045a2c2e582730ada60c052'}
+  - {seq: 1, filename: KR6q0122_001.yaml, hash: 'sha256:8b88bcaadb46065f6cbf15eada1da34ff5f52f7a633ea9b025a46e13e6fcb18d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0122_001.markers.yaml, hash: 'sha256:39f9b23f98bd75dfb22509db3550e259eab9539fb2000fa7c14f4b4fe17c7cf1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0122_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 908
+  label: 警世
+  type: juan
+  level: 1
+hash: sha256:60656d42c3ac8f2c39e10b33f1088ee044ee9e61403061dbed192478686af742
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
