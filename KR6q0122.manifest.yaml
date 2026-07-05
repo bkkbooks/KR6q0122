@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0122_000.yaml, hash: 'sha256:262bc15dbebe17eea1dbc5f559f607deead86f5b9045a2c2e582730ada60c052'}
-  - {seq: 1, filename: KR6q0122_001.yaml, hash: 'sha256:8b88bcaadb46065f6cbf15eada1da34ff5f52f7a633ea9b025a46e13e6fcb18d'}
+  - {seq: 1, filename: KR6q0122_001.yaml, hash: 'sha256:6d9fd2abb4a7e5866a9c49e1a659dbb74689a970fa2d86fb74da0f520b743f5a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0122_001.markers.yaml, hash: 'sha256:39f9b23f98bd75dfb22509db3550e259eab9539fb2000fa7c14f4b4fe17c7cf1'}
+  - {seq: 0, role: markers, filename: assets/KR6q0122_000.markers.yaml, hash: 'sha256:f7207040e82e05644e7a8af392657b03c5a765d258828407b058c79bd8ed4e7b'}
+  - {seq: 1, role: markers, filename: assets/KR6q0122_001.markers.yaml, hash: 'sha256:c96fd818e65632533aadffcc0f20af70d61bae2b19511c1221f38f7f3a35207a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 警世
   type: juan
   level: 1
-hash: sha256:60656d42c3ac8f2c39e10b33f1088ee044ee9e61403061dbed192478686af742
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cc36e9ef112aa192c45ca6c134f29bfd11ff528b73a4527d7feb5f8f05389c65
