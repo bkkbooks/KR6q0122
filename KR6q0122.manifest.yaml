@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0122/v1
 canonical_location: https://kanripo.org/bkk/KR6q0122/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 警世
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0122_000.yaml, hash: 'sha256:262bc15dbebe17eea1dbc5f559f607deead86f5b9045a2c2e582730ada60c052'}
-  - {seq: 1, filename: KR6q0122_001.yaml, hash: 'sha256:6d9fd2abb4a7e5866a9c49e1a659dbb74689a970fa2d86fb74da0f520b743f5a'}
+  - {seq: 1, filename: KR6q0122_001.yaml, hash: 'sha256:f18562a081ea667face1954efa3a57a1379ea2889ebc7488252bec4ce087979d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0122_000.markers.yaml, hash: 'sha256:f7207040e82e05644e7a8af392657b03c5a765d258828407b058c79bd8ed4e7b'}
-  - {seq: 1, role: markers, filename: assets/KR6q0122_001.markers.yaml, hash: 'sha256:c96fd818e65632533aadffcc0f20af70d61bae2b19511c1221f38f7f3a35207a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0122_001.markers.yaml, hash: 'sha256:9db9cc346f895bd581f04de60282885d3408251d1a743cf432a6dae4b6cf2983'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 警世
   type: juan
   level: 1
-hash: sha256:cc36e9ef112aa192c45ca6c134f29bfd11ff528b73a4527d7feb5f8f05389c65
+hash: sha256:b29b5f69951fc25458d8030df8d7068244b9e90c25b971e30297dcb2aa08450d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
